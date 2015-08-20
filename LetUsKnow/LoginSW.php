@@ -8,7 +8,7 @@ $query = mysql_query("SELECT customer.passcode FROM customer WHERE passcode ='".
 
 
 if($passcode == null){
-	echo "No data";
+	echo "No complease ";
 }
 
 else{
